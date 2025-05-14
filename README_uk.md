@@ -12,7 +12,6 @@
 Дані зберігаються у локальному JSON-файлі.
 Кожна транзакція має поля: id, date, type (income/expense), category (enrollment/services/transfers/products/enrollment), amount.
 Поля type та category організовані у вигляді набору констант Enum.
-
 Інтерфейс:
 інтерфейс реалізовано у вигляді консольного меню.
 
