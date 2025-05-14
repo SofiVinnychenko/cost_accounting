@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "type": "INCOME",
+    "category": "SERVICES",
+    "amount": 1500.0,
+    "date": "2025-05-05"
+  },
+  {
+    "id": 2,
+    "type": "EXPENSE",
+    "category": "PRODUCTS",
+    "amount": 320.75,
+    "date": "2025-05-06"
+  },
+  {
+    "id": 3,
+    "type": "EXPENSE",
+    "category": "ENTERTAINMENT",
+    "amount": 450.0,
+    "date": "2025-04-29"
+  },
+  {
+    "id": 4,
+    "type": "EXPENSE",
+    "category": "TRANSFERS",
+    "amount": 1200.0,
+    "date": "2025-05-01"
+  },
+  {
+    "id": 5,
+    "type": "INCOME",
+    "category": "TRANSFERS",
+    "amount": 1240.0,
+    "date": "2025-05-12"
+  },
+  {
+    "id": 6,
+    "type": "EXPENSE",
+    "category": "SERVICES",
+    "amount": 340.0,
+    "date": "2025-05-12"
+  },
+  {
+    "id": 7,
+    "type": "INCOME",
+    "category": "TRANSFERS",
+    "amount": 200.0,
+    "date": "2025-05-12"
+  },
+  {
+    "id": 8,
+    "type": "INCOME",
+    "category": "ENROLLMENT",
+    "amount": 560.0,
+    "date": "2025-05-14"
+  },
+  {
+    "id": 9,
+    "type": "EXPENSE",
+    "category": "PRODUCTS",
+    "amount": 670.0,
+    "date": "2025-05-14"
+  }
+]

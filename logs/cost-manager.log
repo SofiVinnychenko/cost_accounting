@@ -1,0 +1,13 @@
+12-05-2025 01:20:52.539 [main] ERROR org.example.Core - config.properties (Не удается найти указанный файл)
+12-05-2025 01:26:32.291 [main] ERROR org.example.Core - config.properties (Не удается найти указанный файл)
+12-05-2025 01:29:06.339 [main] ERROR org.example.Core - config.properties (Не удается найти указанный файл)
+12-05-2025 01:29:48.250 [main] ERROR org.example.Core - config.properties (Не удается найти указанный файл)
+12-05-2025 01:46:08.524 [main] ERROR org.example.Core - config.properties (Не удается найти указанный файл)
+12-05-2025 01:51:50.265 [main] WARN  org.example.model.BudgetTransaction - There are no available category
+12-05-2025 01:51:50.311 [main] WARN  org.example.model.BudgetTransaction - There are no available category
+12-05-2025 01:51:50.312 [main] WARN  org.example.model.BudgetTransaction - There are no available category
+12-05-2025 01:53:25.286 [main] WARN  org.example.model.BudgetTransaction - There are no available category
+12-05-2025 01:53:25.287 [main] WARN  org.example.model.BudgetTransaction - There are no available category
+12-05-2025 01:53:25.288 [main] WARN  org.example.model.BudgetTransaction - There are no available category
+14-05-2025 21:31:54.410 [main] ERROR org.example.ConsoleUI - Invalid input type/category entered
+14-05-2025 21:45:18.477 [main] ERROR org.example.ConsoleUI - Invalid input type/category entered
