@@ -11,6 +11,7 @@ Data storage:
 Data is stored in a local JSON file.
 Each transaction has fields: id, date, type (income/expense), category (enrollment/services/transfers/products/enrollment), amount.
 The type and category fields are organized as a set of Enum constants.
+
 Interface:
 The interface is implemented as a console menu.
 
